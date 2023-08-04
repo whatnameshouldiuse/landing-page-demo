@@ -1,0 +1,44 @@
+body {
+    position: relative;
+    align-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1, h2, h4 {
+    text-align: center;
+}
+
+header,
+footer {
+    background-color: rgb(110, 38, 38);
+    color:white;
+    position: fixed;
+    left: 0;
+    right: 0;
+}
+
+header {
+    top: 0;
+}
+
+footer {
+    bottom: 0;
+}
+
+.header-navigation {
+    padding: 20px;
+    text-align:center;
+    background-color: rgb(161, 88, 88);
+}
+
+/* .header-navigation span{
+
+} */
+
+.main-form {
+    background-color:rgb(228, 228, 228);
+    margin: 200px 300px 0;
+    padding: 50px 0;
+    text-align: center;
+    align-content: center;
+}
